@@ -1,0 +1,24 @@
+├── package-lock.json
+├── package.json
+├── src
+│   ├── allRoutes.js
+│   ├── core
+│   │   ├── db.sql
+│   │   └── pool.js
+│   ├── features
+│   │   ├── game
+│   │   │   ├── controller.js
+│   │   │   ├── dto.js
+│   │   │   ├── repository.js
+│   │   │   ├── routes.js
+│   │   │   └── service.js
+│   │   ├── game_platform
+│   │   ├── platform
+│   │   ├── session
+│   │   ├── user
+│   │   └── user_game_platform
+│   ├── middlewares
+│   ├── server.js
+│   └── utils
+├── ai.md
+└── tree.txt
